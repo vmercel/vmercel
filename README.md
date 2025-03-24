@@ -1,7 +1,7 @@
 
 
 ![Header](https://github.com/vmercel/vmercel/raw/main/header.png)
-*Caption: Crafting AI solutions, one model at a time.*
+*Crafting AI solutions, one model at a time.*
 
 Welcome to my GitHub universe! I’m a **Machine Learning Engineer** and **Data Scientist** with over 7 years of experience, passionate about building innovative AI solutions that transform healthcare, education, materials science, and IoT. I blend 80% ML wizardry with 20% QA precision to deliver scalable, reliable systems.
 
@@ -92,8 +92,7 @@ Explore more in my [repositories](https://github.com/vmercel?tab=repositories)!
 
 Stay tuned for my adventures in generative AI and cloud-native ML as I wrap up my MSc. Have an idea? Let’s make it real!
 
-[INSERT IMAGE HERE: Fun Graphic or Meme - e.g., `![AI Meme](https://github.com/vmercel/vmercel/raw/main/ai-meme.jpg)`]  
-*Caption: When your model converges on the first try—pure bliss!*
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
