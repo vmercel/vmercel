@@ -1,6 +1,6 @@
 # Hey there, I’m Mercel Vubangsi! 👋
 
-[INSERT IMAGE HERE: Header - e.g., `![Header](https://github.com/vmercel/vmercel/raw/main/github-header-image.png)`]  
+[INSERT IMAGE HERE: Header - e.g., `![Header](https://github.com/vmercel/vmercel/header.png)`]  
 *Caption: Crafting AI solutions, one model at a time.*
 
 Welcome to my GitHub universe! I’m a **Machine Learning Engineer** and **Data Scientist** with over 7 years of experience, passionate about building innovative AI solutions that transform healthcare, education, materials science, and IoT. I blend 80% ML wizardry with 20% QA precision to deliver scalable, reliable systems.
