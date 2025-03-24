@@ -2,15 +2,15 @@
 
 Welcome to my GitHub profile! I’m a passionate **Machine Learning Engineer** and **Data Scientist** with over 7 years of experience crafting innovative solutions at the intersection of AI, data, and real-world challenges. I thrive on designing, training, and deploying advanced ML models to tackle problems in healthcare, education, materials science, and IoT, all while ensuring quality through rigorous testing and validation.
 
-[INSERT IMAGE HERE: Profile Photo - e.g., `![Profile Photo](https://github.com/MercelVubangsi/MercelVubangsi/raw/main/profile-photo.jpg)`]  
-*Caption: Me, probably overanalyzing a neural network or sipping coffee while debugging.*
+#[INSERT IMAGE HERE: Profile Photo - e.g., `![Profile Photo](https://github.com/MercelVubangsi/MercelVubangsi/raw/main/profile-photo.jpg)`]  
+#*Caption: Me, probably overanalyzing a neural network or sipping coffee while debugging.*
 
 ---
 
 ## About Me 🌟
 
 - **What I Do**: I architect end-to-end ML workflows—think data wrangling, model building, and scalable deployment—using tools like Python, TensorFlow, and PyTorch, with a sprinkle of cloud magic (AWS, GCP). I’m also a QA enthusiast, ensuring systems are robust with frameworks like PyTest and Jest.
-- **Experience**: From healthcare chatbots to quantum simulations, I’ve worked across domains, blending 80% ML expertise with 20% QA precision.
+- **Experience**: From healthcare chatbots to quantum simulations, I’ve worked across domains, blending ML expertise with QA precision.
 - **Currently**: Pursuing an MSc in Computer Science at Maharishi International University, diving deeper into algorithms and cloud tech.
 - **Fun Fact**: I once optimized a scheduling system so well, it left me with extra time to ponder the meaning of life—or at least the next model tweak!
 
