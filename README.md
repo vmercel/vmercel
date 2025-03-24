@@ -1,4 +1,4 @@
-# Hey there, I’m Mercel Vubangsi! 👋
+
 
 ![Header](https://github.com/vmercel/vmercel/raw/main/header.png)
 *Caption: Crafting AI solutions, one model at a time.*
