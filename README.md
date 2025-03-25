@@ -15,7 +15,7 @@ Welcome to my GitHub universe! I’m a **Machine Learning Engineer** and **Data 
 - **Fun Fact**: I once optimized a scheduling system so well, it gave me time to ponder life’s mysteries—or at least the next hyperparameter tweak!
 
 ---
-
+<!--
 ## GitHub Stats 📊
 
 <div align="center">
@@ -30,7 +30,8 @@ Welcome to my GitHub universe! I’m a **Machine Learning Engineer** and **Data 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=vmercel&style=flat-square&color=blue" alt="Profile Views"></p>
 
----
+--- 
+-->
 
 ## Tech Stack 💻
 
