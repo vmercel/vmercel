@@ -49,15 +49,15 @@ Welcome to my GitHub universe! I’m a **Machine Learning Engineer** and **Data 
 
 - **[Diet Recommendation System](https://github.com/vmercel/Diet-Recommendation-System)**  
   Engineered a Python planner with Scikit-learn, leveraging K-means and collaborative filtering for personalized diets, validated with PyTest for reliability.  
-  [INSERT IMAGE HERE: Diet System Screenshot - e.g., `![Diet System](https://github.com/vmercel/vmercel/raw/main/diet-system-screenshot.jpg)`]
+ <!-- [INSERT IMAGE HERE: Diet System Screenshot - e.g., `![Diet System](https://github.com/vmercel/vmercel/raw/main/diet-system-screenshot.jpg)`] -->
 
 - **[AI-Enabled Digital Campus](https://github.com/vmercel/neudc)**  
   Developed a PyTorch RL system with DQN to optimize campus scheduling efficiently, validated statistically for precision and impact.  
-  [INSERT IMAGE HERE: Campus Dashboard - e.g., `![Campus Dashboard](https://github.com/vmercel/vmercel/raw/main/campus-dashboard.jpg)`]
+  <!-- [INSERT IMAGE HERE: Campus Dashboard - e.g., `![Campus Dashboard](https://github.com/vmercel/vmercel/raw/main/campus-dashboard.jpg)`] -->
 
 - **[Quantum Material Simulator](https://github.com/vmercel/deepAttention)**  
   Crafted a TensorFlow model for quantum transport prediction, enhancing efficiency with transfer learning and experimental validation.  
-  [INSERT IMAGE HERE: Quantum Viz - e.g., `![Quantum Viz](https://github.com/vmercel/vmercel/raw/main/quantum-viz.jpg)`]
+<!-- [INSERT IMAGE HERE: Quantum Viz - e.g., `![Quantum Viz](https://github.com/vmercel/vmercel/raw/main/quantum-viz.jpg)`] -->
 
 Explore more in my [repositories](https://github.com/vmercel?tab=repositories)!
 
