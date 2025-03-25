@@ -3,7 +3,7 @@
 ![Header](https://github.com/vmercel/vmercel/raw/main/header.png)
 *Crafting AI solutions, one model at a time.*
 
-Welcome to my GitHub universe! I’m a **Machine Learning Engineer** and **Data Scientist** with over 7 years of experience, passionate about building innovative AI solutions that transform healthcare, education, materials science, and IoT. I blend 80% ML wizardry with 20% QA precision to deliver scalable, reliable systems.
+Welcome to my GitHub universe! I’m a **Machine Learning Engineer** and **Data Scientist** with over 7 years of experience, passionate about building innovative AI solutions that transform healthcare, education, materials science, and IoT. I blend ML wizardry with  QA precision to deliver scalable, reliable systems.
 
 ---
 
