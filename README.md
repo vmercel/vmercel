@@ -18,7 +18,17 @@ Welcome to my GitHub universe! I’m a **Machine Learning Engineer** and **Data 
 
 ## GitHub Stats 📊
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vmercel&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Mercel's GitHub Stats" width="45%" height="240px"/>
+  <img src="https://streak-stats.demolab.com?user=vmercel&theme=dark" alt="Mercel's GitHub Streak" width="45%" height="240px"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmercel&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%" height="200px"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vmercel&theme=onedark&bg_color=000000&column=-1" alt="GitHub Trophies" width="90%"/>
+</div>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=vmercel&style=flat-square&color=blue" alt="Profile Views"></p>
 
 ---
 
